@@ -54,7 +54,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/py-fwd.git
+git clone https://github.com/Klodi666/py-fwd
 cd py-fwd
 chmod +x portfwd.py
 ```
